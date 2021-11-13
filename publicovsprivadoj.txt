@@ -1,0 +1,2 @@
+Privado o Incognito = No se puede mover o ver alguna informacion, sale una imagen diciendo error y el #404
+Publico = Cualquier usuario puede ver el contenido y se puede ver la informacion del contenido de texto
